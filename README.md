@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="profile.jpg" width="220" style="border-radius:50%" />
+  <img src="Image 2.PNG" width="220" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Muhammad ElMahdy</h1>
