@@ -228,6 +228,7 @@ Research exploring LLM-based feature extraction across heterogeneous federated s
 - TensorFlow
 - Hugging Face
 - Scikit-learn
+- Diffusers
 
 ## Generative AI
 - Diffusion Models
