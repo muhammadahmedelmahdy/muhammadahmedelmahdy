@@ -1,5 +1,17 @@
 # Hi, I'm Muhammad ElMahdy 👋
 
+
+<p align="center">
+  <img src="profile.jpg" width="220" style="border-radius:50%" />
+</p>
+
+<h1 align="center">Muhammad ElMahdy</h1>
+
+<p align="center">
+  MSc Informatics @ TUM • Generative Vision Researcher
+</p>
+
+
 <div align="center">
 
 ### MSc Informatics @ TUM  
