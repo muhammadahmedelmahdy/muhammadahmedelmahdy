@@ -38,9 +38,7 @@ My current work focuses on generative vision and modern representation learning 
 - 3D Generative Vision
 - Vision-Language & Multimodal Models
 
-I currently conduct research at:
-- **CompVis @ LMU Munich**
-- **TUM 3D AI Lab**
+
 
 My research interests center around building scalable and expressive foundation models capable of understanding and generating visual worlds.
 
